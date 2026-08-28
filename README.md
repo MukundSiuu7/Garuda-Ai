@@ -1,5 +1,9 @@
 # Garuda-AI
 
+<p align="center">
+  <img src="frontend/public/garuda%28512%29.svg" alt="Garuda-AI logo" width="160">
+</p>
+
 Garuda-AI is an investigation and network intelligence platform for exploring cases, entities, relationships, analytics, transactions, and AI-assisted analysis.
 
 ## Features
